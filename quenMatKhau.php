@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="assets/css/grid.css">
     <link rel="stylesheet" href="assets/font/themify-icons/themify-icons.css">
     <link rel="shortcut icon" href="assets/img/favicon_created_by_logaster.ico" type="image/x-icon">
-    <title>Đăng ký tài khoản</title>
+    <title>Đăng ký Tài Khoản</title>
 </head>
 <?php
 	if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['submit'])) {
