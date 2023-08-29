@@ -143,29 +143,22 @@
                 <div class="card">
                     <div class="box">
                         <img src="./assets/img/About-Nike-Team_original.jpg" alt="">
-                        <div class="text">Nguyễn Quỳnh Linh</div>
-                        <p>Đang học lớp DCT1201 , MSSV 3120410278</p>
+                        <div class="text">Trần Hữu Đạt</div>
+                        <p>Đang học lớp TPM2 , MSSV </p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <img src="./assets/img/About-Nike-Team_original.jpg" alt="">
-                        <div class="text">Quan Văn Mạnh</div>
-                        <p>Đang học lớp DCT1204 , MSSV 3120410278</p>
+                        <div class="text">Nguyễn Văn Công</div>
+                        <p>Đang học lớp TPM2 , MSSV 3</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
                         <img src="./assets/img/About-Nike-Team_original.jpg" alt="">
-                        <div class="text">Đoàn Thành Lợi</div>
-                        <p>Đang học lớp DCT1201 , MSSV 3120410316/p>
-                    </div>
-                </div>
-                <div class="card">
-                    <div class="box">
-                        <img src="assets/img/17.jpg" alt="">
-                        <div class="text">Nguyễn Anh Tuấn</div>
-                        <p>Đang học lớp DCT1201 , MSSV 3120410278</p>
+                        <div class="text">Trần Đăng Đông</div>
+                        <p>Đang học lớp TPM2 , MSSV /p>
                     </div>
                 </div>
             </div>
@@ -184,7 +177,7 @@
                              <i class="fas fa-user"></i>
                              <div class="info">
                                  <div class="head">Họ và tên</div>
-                                 <div class="sub-title">Nguyễn Thanh Quỳnh Linh</div>
+                                 <div class="sub-title">Trần Hữu Đạt</div>
                              </div>
                          </div>
                      </div>
@@ -193,7 +186,7 @@
                             <i class="fas fa-map-marker-alt"></i>
                             <div class="info">
                                 <div class="head">Địa chỉ</div>
-                                <div class="sub-title">Phường 4 , Quận 5 , Thành phố Hồ Chí Minh</div>
+                                <div class="sub-title">thôn Phú Hải, xã Đại Hiệp, huyện Đại Lộc, tỉnh Quảng Nam</div>
                             </div>
                         </div>
                     </div>
@@ -202,7 +195,7 @@
                             <i class="fas fa-envelope"></i>
                             <div class="info">
                                 <div class="head">Email</div>
-                                <div class="sub-title">nguyenthanhquynhlinh@gmail.com</div>
+                                <div class="sub-title">dattran0986@gmail.com</div>
                             </div>
                         </div>
                     </div>

@@ -33,7 +33,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['submit'])) {
                             $statistical = new statistical();
                             $getTongDoanhThu = $statistical->gettongDoanhThu();
                             $total0 = 0;
-                            while ($result = $getTongDoanhThu->fetch_assoc()) {
+                            while ($result = $getTongDoanhThu -> fetch_assoc()) {
                                 $total0 += $result['thanhtien'];
                             }
                             ?>

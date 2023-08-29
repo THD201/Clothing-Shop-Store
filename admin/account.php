@@ -24,7 +24,7 @@
                             </div>
                             <div class="detail">
                                 <span>Số điện thoại :</span>
-                                <span>0981984623</span>
+                                <span>0945169361</span>
                             </div>
                         </div>
                         <div class="status">
@@ -38,7 +38,7 @@
                             </div>
                             <div class="detail">
                                 <span>Email :</span>
-                                <span>quynhlinh@gmail.com</span>
+                                <span>dattran0986@gmail.com</span>
                             </div>
                         </div>
                         <div class="status">
